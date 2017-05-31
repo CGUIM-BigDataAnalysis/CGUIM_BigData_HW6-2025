@@ -1,41 +1,64 @@
 ---
-title: ç¾Žåœ‹è·æ£’å¤§è¯ç›Ÿåˆ†æž
+title: ¬ü°êÂ¾´Î¤jÁp·ù¤ÀªR
 output: github_document
 ---
-çµ„å“¡å§“åï¼šB0444225é»ƒç­±èŒœã€B0444220é¾å®¶ç¥º
+²Õ­û©m¦W¡GB0444225¶ÀßNÓ}¡BB0444220Áé®a¸R
 
-## åˆ†æžè­°é¡ŒèƒŒæ™¯
-    ç¾Žåœ‹è·æ£’å¤§è¯ç›Ÿ(MLB)æ˜¯å…¨ä¸–ç•Œæœ€é«˜çš„æ£’çƒæ®¿å ‚ï¼Œå‰µç«‹æ–¼1903å¹´ï¼Œåœ¨å°ç£æˆç¸¾è¼ƒå„ªç§€çš„é¸æ‰‹é€šå¸¸éƒ½æœƒè¢«MLBçš„çƒåœ˜è³žè­˜ã€‚MLBç¸½å…±æœ‰30æ”¯éšŠä¼ï¼Œæœ‰29æ”¯ä¾†è‡ªç¾Žåœ‹å„åœ°ï¼Œæœ‰1æ”¯ä¾†è‡ªåŠ æ‹¿å¤§ï¼Œä¸¦ä¸”åˆ†ç‚ºç¾Žè¯ä»¥åŠåœ‹è¯ï¼ŒéšŠä¼åç¨±æœ‰å¥ªå† æœ€å¤šæ¬¡çš„ç´ç´„æ´‹åŸºã€é‚é˜¿å¯†é¦¬æž—é­šã€æ³¢å£«é “ç´…è¥ªã€å’Œ2016å¹´å† è»éšŠèŠåŠ å“¥å°ç†Šç­‰ç­‰ã€‚ç›®å‰æ—…ç¾Žçš„å°ç£é¸æ‰‹é™³å‰æ®·æ•ˆåŠ›æ–¼é‚é˜¿å¯†é¦¬æž—é­šéšŠæ“”ä»»æŠ•æ‰‹ï¼Œä¸¦ä¸”æ˜¯ç¬¬4è™Ÿå…ˆç™¼ï¼Œæ˜¯æˆ‘å€‘å°ç£ä¹‹å…‰ã€‚
+## ¤ÀªRÄ³ÃD­I´º™¯
+  ¬ü°êÂ¾´Î¤jÁp·ù(MLB)¬O¥þ¥@¬É³Ì°ªªº´Î²y·µ°ó¡A³Ð¥ß©ó1903¦~¡A¦b¥xÆW¦¨ÁZ¸ûÀu¨qªº¿ï¤â³q±`³£·|³QMLBªº²y¹Î½àÃÑ¡CMLBÁ`¦@¦³30¤ä¶¤¥î¡A¦³29¤ä¨Ó¦Û¬ü°ê¦U¦a¡A¦³1¤ä¨Ó¦Û¥[®³¤j¡A¨Ã¥B¤À¬°¬üÁp¥H¤Î°êÁp¡A¶¤¥î¦WºÙ¦³¹Ü«a³Ì¦h¦¸ªº¯Ã¬ù¬v°ò¡BÁÚªü±K°¨ªL³½¡Bªi¤h¹y¬õÄû¡B©M2016¦~«a­x¶¤ªÛ¥[­ô¤pºµµ¥µ¥¡C¥Ø«e®È¬üªº¥xÆW¿ï¤â³¯°¶®ï®Ä¤O©óÁÚªü±K°¨ªL³½¶¤¾á¥ô§ë¤â¡A¨Ã¥B¬O²Ä4¸¹¥ýµo¡A¬O§Ú­Ì¥xÆW¤§¥ú¡C  
 
-## åˆ†æžå‹•æ©Ÿ
-    æˆ‘å€‘çµ„å“¡æœ¬èº«å°±å°æ£’çƒæœ‰ç›¸ç•¶å¤§çš„èˆˆè¶£ï¼Œå› æ­¤å°æ–¼MLBä¹Ÿæœ‰ä¸€äº›äº†è§£ï¼Œæ‰€ä»¥æƒ³è¦è—‰æ­¤æ©Ÿæœƒä¾†åˆ†æžMLBå„å€‹éšŠä¼çš„æˆç¸¾ï¼Œä¹Ÿè®“å¤§å®¶çŸ¥é“ç¾Žåœ‹çƒé¡žé‹å‹•æ˜¯å¤šéº¼ç››è¡Œã€‚
+## ¤ÀªR°Ê¾÷
+ §Ú­Ì²Õ­û¥»¨­´N¹ï´Î²y¦³¬Û·í¤jªº¿³½ì¡A¦]¦¹¹ï©óMLB¤]¦³¤@¨Ç¤F¸Ñ¡A©Ò¥H·Q­nÂÇ¦¹¾÷·|¨Ó¤ÀªRMLB¦U­Ó¶¤¥îªº¦¨ÁZ¡A¤]Åý¤j®aª¾¹D¬ü°ê²yÃþ¹B°Ê¬O¦h»ò²±¦æ¡C   
 
-## ä½¿ç”¨è³‡æ–™
-1.2016å¹´ç¾Žåœ‹è·æ£’è¯ç›Ÿæ¯éšŠæŠ•æ‰‹å„é …ç›®å¹³å‡æˆç¸¾
-2.2016å¹´ç¾Žåœ‹è·æ£’è¯ç›Ÿæ¯éšŠçš„æ‰“æ“Šæ‰‹å„é …ç›®å¹³å‡æˆç¸¾
-è³‡æ–™ä¾†æºï¼šBASEBALL REFERENCEçš„2016 MLB Team Statistics
+## ¨Ï¥Î¸ê®Æ
+1.2016¦~¬ü°êÂ¾´ÎÁp·ù¨C¶¤§ë¤â¦U¶µ¥Ø¥­§¡¦¨ÁZ 
+2.2016¦~¬ü°êÂ¾´ÎÁp·ù¨C¶¤ªº¥´À»¤â¦U¶µ¥Ø¥­§¡¦¨ÁZ 
+¸ê®Æ¨Ó·½¡GBASEBALL REFERENCEªº2016 MLB Team Statistics
 
-è¼‰å…¥ä½¿ç”¨è³‡æ–™å€‘
+##¸ü¤J¨Ï¥Î¸ê®Æ­Ì
 ```{r}
 library(readxl)
-mlb_bat <- read_excel("C:/Users/Yuan/Downloads/mlb_bat.xlsx") #æ¯éšŠçš„æ‰“æ“Šæ‰‹å„é …ç›®å¹³å‡æˆç¸¾
-mlb_pitch <- read_excel("C:/Users/Yuan/Downloads/mlb_pitch.xlsx") #æ¯éšŠæŠ•æ‰‹å„é …ç›®å¹³å‡æˆç¸¾
+mlb_bat <- read_excel("C:/Users/Yuan/Downloads/mlb_bat.xlsx") #¨C¶¤ªº¥´À»¤â¦U¶µ¥Ø¥­§¡¦¨ÁZ
+mlb_pitch <- read_excel("C:/Users/Yuan/Downloads/mlb_pitch.xlsx")  #¨C¶¤§ë¤â¦U¶µ¥Ø¥­§¡¦¨ÁZ
 ```
 
-## è³‡æ–™è™•ç†èˆ‡æ¸…æ´—
-èªªæ˜Žè™•ç†è³‡æ–™çš„æ­¥é©Ÿ
-(å¯¬è¡¨è½‰é•·è¡¨ä»¥teamç‚ºä¾æ“šï¼ŒæŽ’åº+filter(R/G)ï¼Œinner_joinï¼Œè´-è¼¸éšŠä¼å¾—çŸ¥æŽ’å)
-è™•ç†è³‡æ–™
+## ¸ê®Æ³B²z»P²M¬~
+
 ```{r}
-#é€™æ˜¯R Code Chunk
+mlb_pitch$W<-as.numeric(mlb_pitch$W) #Âà¬°¼Æ¦r
+mlb_pitch$L<-as.numeric(mlb_pitch$L) #Âà¬°¼Æ¦r
+mlb_pitch$wingames<-mlb_pitch$W-mlb_pitch$L #§â¨â­ÓÄæ¦ì¬Û´î±o¨C¶¤³Ó­t®t¤§³õ¼Æ
+a<-mlb_pitch[,c("Tm","wingames")] #¥u¯d¤U»Ý­nªºÄæ¦ì
+knitr::kable(head(a[order(a$wingames,decreasing =T),],10)) #¥Ñ¤j¨ì¤p±Æ§Çªº«e10µ§¸ê®Æ
+   
+
 ```
 
-## æŽ¢ç´¢å¼è³‡æ–™åˆ†æž
-ç¾Žåœ‹åœ°åœ–é»žå‡ºå„éšŠä½ç½®ï¼Œæ¯éšŠå¾—åˆ†çŽ‡
+##±´¯Á¦¡¸ê®Æ¤ÀªR
+
 ```{r}
-#é€™æ˜¯R Code Chunk
+library(dplyr)
+b<-summarise(mlb_bat,
+          nTeam=n_distinct(Tm), #¤£­«½Æªº¶¤¥î¼Æ
+          meanR=mean(R_B),      #¥­§¡±o¤À
+          meanBB=mean(BB_B),    #¥­§¡«O°e
+          meanSO=mean(SO_B),    #¥­§¡¤T®¶
+          meanLOB=mean(LOB_B),  #¥­§¡´ÝÂS
+          meanHR=mean(HR_B),    #¥­§¡¥þÂS¥´
+          meanHBP=mean(HBP_B),  #¥­§¡Ä²¨­²y
+          meanRBI=mean(RBI_B),  #¥­§¡¥´ÂI
+          meanSF=mean(SF_B),    #¥­§¡°ª­¸Äë¬¹¥´
+          meanSH=mean(SH_B))    #¥­§¡Äë¬¹Ä²À»
+knitr::kable(b)
+
+library(ggplot2)
+ggplot()+geom_bar(data = a,aes(Tm,wingames),stat="identity") #¥H³Ó­t®tµeªø±ø¹Ï
+
+
 ```
 
-## æœŸæœ«å°ˆé¡Œåˆ†æžè¦åŠƒ
-1.çƒéšŠåœ¨ä¸»ã€å®¢å ´ç²å‹æ©ŸçŽ‡
-2.é¸æ‰‹åœ‹ç±åœ¨å…¨çƒçš„åˆ†å¸ƒ
+¥Ñ³o±iªø±ø¹Ï±oª¾2016ªº«a­x¬OªÛ¥[­ô¤pºµ(CHC)¡A¦Ó©ú¥§Ä¬¹FÂù«°(MIN)¬°¾ÔÁZ³Ì®tªº²y¶¤
+
+## ´Á¥½±MÃD¤ÀªR³W¹º
+1.²y¶¤¦b¥D¡B«È³õÀò³Ó¾÷²v 
+2.¿ï¤â°êÄy¦b¥þ²yªº¤À¥¬
